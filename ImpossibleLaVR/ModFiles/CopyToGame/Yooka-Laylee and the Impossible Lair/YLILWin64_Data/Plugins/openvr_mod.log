@@ -1,0 +1,11 @@
+Initializing hooks...
+Requested interface IVRSystem_015
+Injecting GetRecommendedRenderTargetSize into IVRSystem_015
+Shutting down hooks...
+Initializing hooks...
+Requested interface IVRSystem_015
+Injecting GetRecommendedRenderTargetSize into IVRSystem_015
+Requested interface IVRChaperone_003
+Requested interface IVRChaperoneSetup_005
+Requested interface IVRCompositor_020
+Injecting Submit into IVRCompositor_020
